@@ -1,0 +1,16 @@
+.both{
+    background-color: gray;
+    font-size: 40px;
+    height: 100px;
+    text-align: center;
+}
+.container{
+    background-color: dodgerblue;
+
+}
+.item{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
